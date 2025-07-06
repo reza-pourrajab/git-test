@@ -1,4 +1,6 @@
 "use strict";
 const isLogin = (userName) => {
-	return false;
+	if (userName === "reza") {
+		return true;
+	}
 };
