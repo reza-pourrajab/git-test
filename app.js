@@ -22,3 +22,9 @@ const addCourse = (course) => {
 const ageCalc = (age) => {
 	return 2025 - age;
 };
+const likePost = () => {
+	return true;
+}
+const dissLikePost = () => {
+	return false;
+}
