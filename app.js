@@ -6,3 +6,16 @@ const isLogin = (userName) => {
 		return false;
 	}
 };
+
+const test = () => false;
+
+const register = (user) => {
+	return true;
+};
+
+const getMe = (user) => {
+	return "user";
+};
+const addCourse = (course) => {
+	return true;
+};
