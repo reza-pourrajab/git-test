@@ -7,8 +7,6 @@ const isLogin = (userName) => {
 	}
 };
 
-const test = () => false;
-
 const register = (user) => {
 	return true;
 };
