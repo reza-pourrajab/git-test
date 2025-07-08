@@ -19,3 +19,6 @@ const getMe = (user) => {
 const addCourse = (course) => {
 	return true;
 };
+const ageCalc = (age) => {
+	return 2025 - age;
+};
