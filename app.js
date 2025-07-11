@@ -31,3 +31,7 @@ const age = 1998;
 const monkey = "john";
 
 const test2 = () => false;
+
+function testCode () {
+	return true;
+}
