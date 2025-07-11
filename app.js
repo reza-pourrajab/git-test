@@ -26,3 +26,6 @@ const likePost = () => {
 const dissLikePost = () => {
 	return false;
 };
+
+const age = 1998;
+const monkey = "john";
