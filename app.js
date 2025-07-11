@@ -22,7 +22,7 @@ const ageCalc = (age) => {
 };
 const likePost = () => {
 	return true;
-}
+};
 const dissLikePost = () => {
 	return false;
-}
+};
