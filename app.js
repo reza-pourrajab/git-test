@@ -30,4 +30,10 @@ const dissLikePost = () => {
 const age = 1998;
 const monkey = "john";
 
-const test2 = () => false;
+const test2 = (user) => {
+	if (user === "reza") {
+		return true;
+	} else {
+		return false;
+	}
+};
